@@ -2,15 +2,12 @@
 owner: highchem-east-africa-limited # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
+secrets:
+  - SITE_A_URL
+
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  # - name: Secret Site
-  #   url: $SECRET_SITE
+  - name: SITE_A
+    url: $SITE_A_URL
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
