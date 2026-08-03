@@ -6,7 +6,7 @@ secrets:
   - SITE_A_URL
 
 sites:
-  - name: SITE_A
+  - name: SITE A
     url: $SITE_A_URL
 
 status-website:
