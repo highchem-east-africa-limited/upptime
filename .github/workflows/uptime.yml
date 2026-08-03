@@ -41,4 +41,4 @@ jobs:
         env:
           GH_PAT: ${{ secrets.GH_PAT || github.token }}
           # Configure the secret allowlist in .upptimerc.yml; do not edit this workflow directly.
-          SECRETS_CONTEXT: '{"SITE_A_URL":${{ toJson(secrets.SITE_A_URL) }}}'
+          SECRETS_CONTEXT: '{"SITE_A_URL":${{ toJson(secrets.SITE_A_URL) }},"SITE_B_URL":${{ toJson(secrets.SITE_B_URL) }},"SITE_C_URL":${{ toJson(secrets.SITE_C_URL) }}}'
