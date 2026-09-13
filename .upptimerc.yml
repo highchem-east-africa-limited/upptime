@@ -4,8 +4,8 @@ repo: upptime # The name of this repository
 
 secrets:
   - SITE_A_URL
-  - SITE_B_URL
-  - SITE_C_URL
+  # - SITE_B_URL
+  # - SITE_C_URL
 
 sites:
   - name: SITE A
