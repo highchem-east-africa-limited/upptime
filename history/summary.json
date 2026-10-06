@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "site-a",
     "status": "down",
-    "uptime": "98.07%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "90.22%",
-    "uptimeMonth": "97.42%",
-    "uptimeYear": "98.07%",
+    "uptime": "98.03%",
+    "uptimeDay": "97.10%",
+    "uptimeWeek": "89.80%",
+    "uptimeMonth": "97.32%",
+    "uptimeYear": "98.03%",
     "time": 3329,
     "timeDay": 16174,
     "timeWeek": 5662,
@@ -30,7 +30,8 @@
       "2026-09-18": 145,
       "2026-10-01": 108,
       "2026-09-30": 526,
-      "2026-10-02": 352
+      "2026-10-02": 352,
+      "2026-10-06": 42
     }
   }
 ]
